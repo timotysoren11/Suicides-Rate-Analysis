@@ -1,0 +1,102 @@
+country,year,age,suicides_no,generation
+Antigua and Barbuda,1985,15-24 years,0,Generation X
+Qatar,1995,15-24 years,0,Generation X
+Dominica,1985,15-24 years,0,Generation X
+Maldives,2000,15-24 years,0,Generation X
+Saint Kitts and Nevis,1990,15-24 years,0,Generation X
+Montenegro,2000,15-24 years,0,Generation X
+Malta,1985,55-74 years,1,G.I. Generation
+Bahamas,1985,35-54 years,1,Silent
+Barbados,1985,75+ years,1,G.I. Generation
+Grenada,1985,55-74 years,1,G.I. Generation
+San Marino,1999,55-74 years,1,Silent
+Kuwait,1985,55-74 years,1,G.I. Generation
+Cyprus,1999,55-74 years,1,Silent
+Jamaica,1985,75+ years,1,G.I. Generation
+Belize,1986,25-34 years,1,Boomers
+Oman,2009,75+ years,2,Silent
+Macau,1994,75+ years,2,G.I. Generation
+Saint Vincent and Grenadines,1985,35-54 years,2,Silent
+Mauritius,1985,75+ years,2,G.I. Generation
+Bosnia and Herzegovina,2011,55-74 years,2,Boomers
+Aruba,1995,75+ years,2,G.I. Generation
+Cabo Verde,2011,75+ years,2,Silent
+Seychelles,1985,35-54 years,3,Silent
+Saint Lucia,1986,35-54 years,3,Silent
+Paraguay,1985,75+ years,3,G.I. Generation
+Panama,1985,75+ years,3,G.I. Generation
+Fiji,2001,55-74 years,4,Silent
+Kiribati,1991,15-24 years,5,Generation X
+Turkmenistan,1987,75+ years,5,G.I. Generation
+South Africa,1996,75+ years,6,G.I. Generation
+Luxembourg,1985,75+ years,6,G.I. Generation
+Philippines,1992,75+ years,6,G.I. Generation
+Bahrain,1985,25-34 years,7,Boomers
+Iceland,1985,15-24 years,7,Generation X
+Nicaragua,2010,75+ years,8,Silent
+Ecuador,1985,75+ years,8,G.I. Generation
+Trinidad and Tobago,1985,35-54 years,9,Silent
+El Salvador,1990,75+ years,13,G.I. Generation
+Kyrgyzstan,1990,75+ years,14,G.I. Generation
+Georgia,1990,75+ years,14,G.I. Generation
+Guyana,1988,25-34 years,15,Boomers
+New Zealand,1985,75+ years,18,G.I. Generation
+Suriname,1985,35-54 years,20,Silent
+Colombia,1985,75+ years,21,G.I. Generation
+Albania,1987,15-24 years,21,Generation X
+Singapore,1985,75+ years,23,G.I. Generation
+Israel,1985,75+ years,24,G.I. Generation
+Puerto Rico,1985,75+ years,25,G.I. Generation
+Armenia,1990,35-54 years,25,Silent
+Slovenia,1995,75+ years,27,G.I. Generation
+Costa Rica,1985,35-54 years,32,Silent
+Turkey,2009,75+ years,33,Silent
+Chile,1985,75+ years,34,G.I. Generation
+Greece,1985,75+ years,35,G.I. Generation
+Uruguay,1985,75+ years,37,G.I. Generation
+Azerbaijan,1990,35-54 years,41,Silent
+Republic of Korea,1985,75+ years,42,G.I. Generation
+United Arab Emirates,2005,35-54 years,42,Boomers
+Mexico,1985,75+ years,44,G.I. Generation
+Slovakia,1992,75+ years,45,G.I. Generation
+Guatemala,1986,25-34 years,46,Boomers
+Finland,1987,75+ years,57,G.I. Generation
+Ireland,1985,55-74 years,65,G.I. Generation
+Australia,1985,75+ years,67,G.I. Generation
+Croatia,1995,75+ years,77,G.I. Generation
+Kazakhstan,1990,75+ years,82,G.I. Generation
+Portugal,1985,75+ years,89,G.I. Generation
+Denmark,1994,75+ years,89,G.I. Generation
+Netherlands,1985,75+ years,106,G.I. Generation
+Canada,1985,75+ years,111,G.I. Generation
+Sweden,1987,75+ years,124,G.I. Generation
+Mongolia,2016,25-34 years,127,Millenials
+Brazil,1985,75+ years,129,G.I. Generation
+Norway,1986,35-54 years,137,Silent
+Romania,1989,75+ years,138,G.I. Generation
+Sri Lanka,1985,75+ years,144,G.I. Generation
+Switzerland,1995,75+ years,146,G.I. Generation
+Serbia,1998,75+ years,147,G.I. Generation
+Austria,1985,75+ years,152,G.I. Generation
+Czech Republic,1990,75+ years,198,G.I. Generation
+Argentina,1985,75+ years,202,G.I. Generation
+Belgium,1985,75+ years,214,G.I. Generation
+Bulgaria,1985,75+ years,218,G.I. Generation
+Cuba,1992,75+ years,227,G.I. Generation
+Estonia,1995,35-54 years,227,Boomers
+Latvia,1995,55-74 years,239,Silent
+United Kingdom,1985,75+ years,264,G.I. Generation
+Spain,1985,75+ years,305,G.I. Generation
+Hungary,1991,75+ years,333,G.I. Generation
+Uzbekistan,1990,35-54 years,343,Silent
+Thailand,1985,25-34 years,453,Boomers
+Ukraine,1987,75+ years,506,G.I. Generation
+Italy,1985,75+ years,542,G.I. Generation
+Lithuania,1995,35-54 years,632,Boomers
+Belarus,1990,35-54 years,729,Silent
+Japan,1985,75+ years,1340,G.I. Generation
+Russian Federation,1989,75+ years,1393,G.I. Generation
+Germany,1990,75+ years,1516,G.I. Generation
+France,1985,75+ years,1522,G.I. Generation
+Poland,1990,35-54 years,1670,Silent
+United States,1985,75+ years,2177,G.I. Generation
